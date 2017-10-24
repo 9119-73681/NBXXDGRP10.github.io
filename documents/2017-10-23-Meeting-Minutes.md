@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  2017-10-18 Meeting Minutes
-date:   2017-10-18 16:30:00 +0800
+title:  2017-10-23 Meeting Minutes
+date:   2017-10-23 16:30:00 +0800
 categories: Meeting-Minutes
 ---
 
@@ -11,7 +11,7 @@ categories: Meeting-Minutes
 
 # GRP Meeting Minutes
 
-
+#### 10 Oct 2017
 #### Student: 
 
 Junhao Zhang, Wenzhu Hou(Recorder), Shihe Wang, Jingjie Xu, Botian Zheng
@@ -26,9 +26,9 @@ Zheng LU
 
 #### Conference Content: 
 
-1.		Equipment requirement
+1.	Equipment requirement
 
-2.		Software requirement specification
+2.	Software requirement specification
 
 3.  	Team Roles:
 
@@ -50,9 +50,9 @@ Zheng LU
 
 5.    	Revise Software Engineering
 
-6.  	  Learn Github
+6.  	Learn Github
 
-7.  	  Build website
+7.  	Build website
 	
 ---
 
